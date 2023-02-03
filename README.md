@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto - Móveis Costumizados </h1>
+<h1 align="center"> Projeto - Movéis Costumizados </h1>
 
 <p align="center">
 Projeto desenvolvido durante o acompanhamento das aulas do Stage 02 do programa Explorer da Rocketseat
